@@ -1,3 +1,11 @@
+{ 
+    "groupId" : "com.acme.app",
+    "artifactId" : "mastercard-api-client",
+    "artifactVersion" : "1.0.0",
+    "invokerPackage" : "com.acme.app.mastercard",
+    "apiPackage" : "com.acme.app.mastercard.api",
+    "modelPackage" : "com.acme.app.mastercard.model"
+}
 ---
 id: configuration
 title: Configuration Options
